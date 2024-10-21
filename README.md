@@ -6,7 +6,7 @@ Implemented an end-to-end CI/CD pipeline for Java Based Application using Jenkin
 various stages such as Build, Static Code Analysis, Creation of Docker Images, Deployment on Kubernetes platform using 
 Argo CD. 
 <hr />
-<img src = "aws" />
+<img src = "aws.png" />
 <img src = "argo.png" />
 <img src = "jenkins.png" />
 <img src = "sonar.png" />
